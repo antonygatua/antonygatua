@@ -3,7 +3,7 @@
 <h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antonny Muiko</h1>
 
 <div align="center">
-    <p>👨‍💻 Full-Stack Data Scientist & ML Enthusiast</p>
+    <p>👨‍Data Analytics Engineer</p>
     <p>I’m all about turning data into actionable insights 📊 and building ML solutions that make a real impact 🚀. My passion lies in designing end-to-end ML pipelines that scale efficiently and refining systems for smooth model deployment and operation ⚙️. From data wrangling and feature engineering to deploying models in production 🛠️, I bring technical skills and creativity to every project, ensuring the results are reliable, scalable, and ready to transform user experiences. Always learning, always optimizing—because there’s always a smarter way to use data 💡.</p>
 </div>
   
