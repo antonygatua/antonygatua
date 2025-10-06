@@ -4,20 +4,24 @@
 
 <div align="center">
     <p>👨‍Data Analytics Engineer</p>
-    <p>I’m all about turning data into actionable insights 📊 and building ML solutions that make a real impact 🚀. My passion lies in designing end-to-end ML pipelines that scale efficiently and refining systems for smooth model deployment and operation ⚙️. From data wrangling and feature engineering to deploying models in production 🛠️, I bring technical skills and creativity to every project, ensuring the results are reliable, scalable, and ready to transform user experiences. Always learning, always optimizing—because there’s always a smarter way to use data 💡.</p>
+    <p>
+	I specialize in building resilient, high-performance data systems that transform raw information into reliable, analytics-ready assets ⚙️. 
+	As a Data Engineer, I design and maintain scalable pipelines, automate data flows, and architect cloud-based solutions that enable seamless integration between data sources, analytics tools, and business applications 🚀. 
+	My focus is on creating efficient, maintainable, and secure infrastructure that supports data-driven decision-making at scale. Always learning, always optimizing because there’s always a smarter way to use data 💡.
+    </p>
 </div>
   
 ## RapidFire  
 
-- ✨ A **Full-Stack Data Scientist** with a passion for machine learning.  
+- ✨ A **Data Analytics Engineer** passionate about data pipelines that power analytics and insights.  
 
 - 🌍 Working remotely from **Nairobi-Kenya**.  
 
-- 💡 Turning data into **actionable insights** is my superpower.  
+- 💡 I love turning complex data systems into **clean**, **efficient**, and **reliable** data flows.  
 
 - 🔭 Currently Exploring **MLOps**.  
 
-- ❓ Ask me anything about **machine learning**, **deep learning**, **time series forecasting**, and **natural language processing (NLP)**.  
+- ❓ Ask me anything about **designing robust data pipelines**, **optimizing ETL/ELT processes**, and **managing data infrastructure at scale.**.  
 
 - ⚡ Fun fact: Passionate about **sports analytics**.  
 
@@ -31,7 +35,6 @@
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
@@ -68,12 +71,6 @@
 </a>
 <a href="https://linkedin.com/in/antonny-muiko-1b5aaa162" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/antonnymuiko" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.hackerrank.com/antonnymuiko" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerank" style="margin-bottom: 5px;" />
 </a>
 </div>  
   
