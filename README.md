@@ -8,24 +8,21 @@
 </div>
   
 ## RapidFire  
-- ✨ A **Full-Stack Data Scientist** with solid experience in backend development.  
-  
 
-- 🌍 Working remotely from Nairobi-Kenya.  
-  
+- ✨ A **Full-Stack Data Scientist** with a passion for machine learning.  
 
-- 🛠️ Building awesome Dashboards and efficient Machine Learning Algorithms.  
-  
+- 🌍 Working remotely from **Nairobi-Kenya**.  
 
--  🔭 Currently Exploring MLOps.   
-  
+- 💡 Turning data into **actionable insights** is my superpower.  
 
-- ❓ Ask me anything about machine learning, deep learning, and natural language processing (NLP)   
-  
+- 🔭 Currently Exploring **MLOps**.  
 
-- ⚡ Fun fact: Passionate about sports analytics.  
-  
+- ❓ Ask me anything about **machine learning**, **deep learning**, **time series forecasting**, and **natural language processing (NLP)**.  
 
+- ⚡ Fun fact: Passionate about **sports analytics**.  
+
+- 🚀 Always up for a **challenge** and finding **smarter** ways to use data.
+  
 <br/>  
 
 
