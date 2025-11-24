@@ -4,21 +4,18 @@
 
 <div align="left">
     <p>A Machine Learning Engineer</p>
-        <p>
-        I am willing to learn, unlearn and use common sense.
-    </p>
-    <p>
-        I build machine learning models and deliver production ready examples that can be integrated and used right away.
-    </p>
-    <p>
-        Most of my work is very hands-on: writing real code, defining clear patterns, and building tested setups for ML models, training pipelines, feature engineering, model evaluation, and ML applications that run both locally and in the cloud.
-    </p>
-    <p>
-        I maintain the open-source **[ML Model Playground](https://github.com/antonygatua/ML-Model-Playground)**, a repo where I publish complete ML templates, clean starter kits, and advanced demos to help anyone skip the noise and get straight to building.
-    </p>
-
 </div>
-  
+
+A Machine Learning Engineer  
+
+I am willing to learn, unlearn and use common sense.
+
+I build machine learning models and deliver production-ready examples that can be integrated and used right away.
+
+Most of my work is very hands-on: writing real code, defining clear patterns, and building tested setups for ML models, training pipelines, feature engineering, model evaluation, and ML applications that run both locally and in the cloud.
+
+I maintain the open-source **[ML Model Playground](https://github.com/antonygatua/ML-Model-Playground)**, a repo where I publish complete ML templates, clean starter kits, and advanced demos to help anyone skip the noise and get straight to building.
+
 ## RapidFire  
 
 - ✨ A **Machine Learning Engineer**.  
@@ -33,7 +30,7 @@
 
 - ⚡ Fun fact: Passionate about **sports analytics**.  
 
-- 🚀 Convinced there's a **smarter ML model waiting to be built if you just hand me the data.
+- 🚀 Convinced there's a **smarter ML model** waiting to be built if you just hand me the data.
   
 <br/>  
 
