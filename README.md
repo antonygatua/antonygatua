@@ -3,10 +3,8 @@
 <h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antonny Muiko</h1>
 
 <div align="left">
-    <p>A Machine Learning Engineer</p>
+    <p>A <strong>Machine Learning Engineer</strong>.</p>
 </div>
-
-A Machine Learning Engineer  
 
 I am willing to learn, unlearn and use common sense.
 
