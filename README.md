@@ -2,30 +2,38 @@
 
 <h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Antonny Muiko</h1>
 
-<div align="center">
-    <p>👨‍Data Analytics Engineer</p>
-    <p>
-	I specialize in building resilient, high-performance data systems that transform raw information into reliable, analytics-ready assets ⚙️. 
-	As a Data Engineer, I design and maintain scalable pipelines, automate data flows, and architect cloud-based solutions that enable seamless integration between data sources, analytics tools, and business applications 🚀. 
-	My focus is on creating efficient, maintainable, and secure infrastructure that supports data-driven decision-making at scale. Always learning, always optimizing because there’s always a smarter way to use data 💡.
+<div align="left">
+    <p>A Machine Learning Engineer</p>
+        <p>
+        I am willing to learn, unlearn and use common sense.
     </p>
+    <p>
+        I build machine learning models and deliver production ready examples that can be integrated and used right away.
+    </p>
+    <p>
+        Most of my work is very hands-on: writing real code, defining clear patterns, and building tested setups for ML models, training pipelines, feature engineering, model evaluation, and ML applications that run both locally and in the cloud.
+    </p>
+    <p>
+        I maintain the open-source **[ML Model Playground](https://github.com/antonygatua/ML-Model-Playground)**, a repo where I publish complete ML templates, clean starter kits, and advanced demos to help anyone skip the noise and get straight to building.
+    </p>
+
 </div>
   
 ## RapidFire  
 
-- ✨ A **Data Analytics Engineer** passionate about data pipelines that power analytics and insights.  
+- ✨ A **Machine Learning Engineer**.  
 
 - 🌍 Working remotely from **Nairobi-Kenya**.  
 
-- 💡 I love turning complex data systems into **clean**, **efficient**, and **reliable** data flows.  
+- 💡 I love turning transforming chaotic messy datasets into clean efficient ML pipelines that actually make models *behave* and *deliver* real value. 
 
-- 🔭 Currently Exploring **MLOps**.  
+- 🔭 Currently Exploring **Linear Regression**.  
 
-- ❓ Ask me anything about **designing robust data pipelines**, **optimizing ETL/ELT processes**, and **managing data infrastructure at scale.**.  
+- ❓ Ask me anything about **training reliable ML models**, **optimizing end-to-end ML pipelines**, and **deploying machine learning systems that scale.**.  
 
 - ⚡ Fun fact: Passionate about **sports analytics**.  
 
-- 🚀 Always up for a **challenge** and finding **smarter** ways to use data.
+- 🚀 Convinced there's a **smarter ML model waiting to be built if you just hand me the data.
   
 <br/>  
 
